@@ -1,0 +1,6 @@
+$ ssh -p 2222 attacker@your-server-ip
+SSH-2.0-Endlessh
+SSH-2.0-Endlessh
+SSH-2.0-Endlessh
+SSH-2.0-Endlessh
+...
