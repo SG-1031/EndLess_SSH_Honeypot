@@ -77,7 +77,7 @@ SSH-2.0-Endlessh
 ...
 ```
 
-More output examples can be found in the [screenshots/](screenshots/sample_output.txt) directory.
+More output examples can be found in the [screenshots/](sample_output.txt) directory.
 
 ## Disclaimer
 
