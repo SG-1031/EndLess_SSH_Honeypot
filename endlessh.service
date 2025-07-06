@@ -1,0 +1,12 @@
+[Unit]
+Description=Endless SSH Honeypot
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/endlessh -d -v
+Restart=always
+User=nobody
+Group=nogroup
+
+[Install]
+WantedBy=multi-user.target
